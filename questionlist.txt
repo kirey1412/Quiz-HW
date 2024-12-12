@@ -1,0 +1,4 @@
+What is the capital city of Australia?, Canberra, Paris, Rome, Madrid,1
+Who invented light bulb?, Leonardo Da Vinci, Samuel Morse, Thomas Edison, Benjamin Franklin,3
+What is the measurement of the Earth's earthquake?, Magnitude, Hypocenter, Richter scale, Epicenter,3
+Where is the Versailles palace located at?, Paris, Fiji, Tokyo, Rome,0
